@@ -1,0 +1,35 @@
+#UTANGULIZI
+
+* Kuhusu hiki kitabu
+* Mtandao unafanyaje kazi
+* Kitabu hiki kinamfaa nani
+* Kwa nini ujifunze kutengeneza kurasa za mtandao
+* kitu gani unahitaji ili uweze kutumia kitabu hiki na kufanya mazoezi
+* Kurasa za mtandao zimetengenezwaje
+
+
+
+#Mtandao Unafanyaje kazi
+
+Pale unapo ingia kwenye mtandao wowote kupata taarifa fulani, ujue komputa iliyo hifadhi hizo taarifa inaweza kuwa sehemu yeyote duniani yaani inaweza ikawa Marekani, Uchina, Tanzania au Uingereza. Komputa hii iliyohifadhi hizi taarifa tunaita *hosting server*. Kwa wewe kupata taarifa za hii *hosting server* kwanza komputa yako  itaunganishwa na *domain name system (DNS) Sever*. Hii *DNS server* ni kama vile kitabu cha orodha ya simu *address book* ila yenyewe inakua na namba ya mtandao wa komputa  inaitwa (IP) na jina la hiyo *hosting server* ambayo tunaita *domain name* hii *domain name* pamoja na taarifa za kurasa husika ndio unachoingiza pale kwenye *address bar* ndio tunaita *Uniform Resource Locator (URL)*. Ingawa wewe utaingiza maneno kwenye hiyo *address bar* *hosting server DNS server* itaibadilisha kuwa namba na kuwasiliana nayo ili iangalie kama ina kurasa ya taarifa unayo itafuta kama ikiipata inakurudishia wewe kupitia njia ile ile kama ikiikosa haitaweza kukulete badala yake inaweza ikakulete taarifa kwamba imekosa au ika kaa kimya tu..
+
+Hii *DNS server*  mara nyingi inakua ipo kwenye kampuni inayo kupa mtandao *internet service provide ISP*. Kama unapata mtandao kupitia kampuni ya simu basi ISP wako ni hiyo kampuni ya simu.
+
+Angalia mchoro hapo chini unaeleza jinsi gani mchakato mzima unavyokua wa kupata kurasa unayo itaka kwenye mtandao
+ 
+
+* ISP
+* DNS
+* IP
+* URL
+* Hosting Server
+
+
+
+
+###Web Page Yako ya Kwanza
+
+*Raha ya ngoma ingia ndani ucheze* na huwezi kujifunza baskeli kwa kuangalia kusoma kitabu tu ni lazima uipande na uiendeshe
+kuangakuka na kupata michubuko ya hapa na pale ni sehemu ya kujifunza. hivyo basi bila kupoteza muda ni vyema ukianza na hii programu yako ya kwanza. 
+
+Fungua text editor kama notepad au notepad++ kisha andika program hii hapa kopy kila kitu kama kilivyo kisha save kwa jina la  "nami nimo.html"
